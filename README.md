@@ -1,5 +1,5 @@
 Note. This is very immature and breaks in a lot of cases. Use at your own peril!
-[Associated blog post](https://crwi.uk/2020/07/12/crsh.html)
+[Associated blog post](https://morioh.com/p/b3cb12978306)
 
 crsh is a modern command line shell that allows seamless
 interoperability between unix commands and Javascript.
